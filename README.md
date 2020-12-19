@@ -8,3 +8,5 @@
 ![Screenshot from 2020-12-19 07-33-51](https://user-images.githubusercontent.com/30657193/102682807-9098d100-41cc-11eb-977c-dc8832b44216.png)
 
 ![Screenshot from 2020-12-19 07-28-05](https://user-images.githubusercontent.com/30657193/102682691-c6898580-41cb-11eb-835f-8c96d6144b37.png)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yasmine77/Classification-des-Tweets.git/main?filepath=Version3.ipynb)
